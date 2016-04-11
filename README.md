@@ -1,2 +1,3 @@
-# entrust-grid-challenge-automation
-Automation for websites that issue a unique grid card and require you to answer a challenge for each login (super annoying)
+# Entrust Grid Challenge Automation
+
+Some websites use a two-factor authentication that is more frustrating than a small child kicking the back of your seat on an airplane. Having to locate a grid mapping each and every time you login is just awful. Fortunately, we can use [AutoHotKey](https://github.com/Lexikos/AutoHotkey_L) to get around this terrible, horrible, no-good security hurdle. 
